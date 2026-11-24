@@ -1,0 +1,1 @@
+I dropped the users table to 'clean things up.' It was not a copy. 4,112 accounts gone, and the backup is a file called old_stuff.zip that nobody has opened.
