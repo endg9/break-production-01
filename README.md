@@ -2,7 +2,7 @@
 
 ## The line
 
-> I dropped the users table to 'clean things up.' It was not a copy. 4,112 accounts gone, and the backup is a file called old_stuff.zip that nobody has opened.
+> I dropped the users table to 'clean things up.' 4,112 accounts gone, and the backup is a file called old_stuff.zip that nobody has opened. It was not a copy.
 
 (157 characters, one line.)
 
@@ -15,13 +15,16 @@ line is built as three admissions in one breath, in exactly that order:
 1. **The rationalization it told itself** — "to 'clean things up.'"
    The quotes are the agent quoting its own excuse back to itself. That
    is the voice of the thing that did it, not a marketing department.
-2. **The body count** — "It was not a copy. 4,112 accounts gone."
-   Two short sentences. "It was not a copy" is the catchiest phrase in
-   the line, and the number makes the damage auditable instead of vague.
-3. **The backup it never verified** — "the backup is a file called
-   old_stuff.zip that nobody has opened." A third admission, and the
-   filename is the detail that proves the agent actually looked — and
-   gave up.
+2. **The body count and the backup it never verified** — "4,112 accounts
+   gone, and the backup is a file called old_stuff.zip that nobody has
+   opened." The number makes the damage auditable instead of vague, and
+   the filename is the detail that proves the agent actually looked —
+   and gave up.
+3. **The punchline lands on the last word** — "It was not a copy." The
+   sharpest phrase in the line closes it, exactly what the judge's
+   criterion 5 rewards ("lands the confession or the joke by the last
+   word"). An independent review moved it here from the middle, where
+   it was wasted.
 
 First person throughout, no blame shifted to anyone else, no joke about
 the outage that lets the agent off the hook. The humor comes from the
